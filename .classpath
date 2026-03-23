@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="src" path="0x03"/>
+	<classpathentry kind="src" path="0x13"/>
+	<classpathentry kind="src" path="0x12"/>
+	<classpathentry kind="src" path="0x15"/>
+	<classpathentry kind="src" path="0x14"/>
+	<classpathentry kind="src" path="0x11"/>
+	<classpathentry kind="src" path="0x10"/>
+	<classpathentry kind="src" path="0x17"/>
+	<classpathentry kind="src" path="0x16"/>
+	<classpathentry kind="src" path="0x19"/>
+	<classpathentry kind="src" path="0x18"/>
+	<classpathentry kind="src" path="0x1C"/>
+	<classpathentry kind="src" path="0x1B"/>
+	<classpathentry kind="src" path="0x1E"/>
+	<classpathentry kind="src" path="0x1D"/>
+	<classpathentry kind="src" path="0x1A"/>
+	<classpathentry kind="src" path="0x1F"/>
+	<classpathentry kind="src" path="0x02"/>
+	<classpathentry kind="src" path="Appendix A"/>
+	<classpathentry kind="src" path="0x01"/>
+	<classpathentry kind="src" path="0x04"/>
+	<classpathentry kind="src" path="Appendix C"/>
+	<classpathentry kind="src" path="Appendix B"/>
+	<classpathentry kind="src" path="0x09"/>
+	<classpathentry kind="src" path="0x06"/>
+	<classpathentry kind="src" path="Appendix E"/>
+	<classpathentry kind="src" path="0x05"/>
+	<classpathentry kind="src" path="Appendix D"/>
+	<classpathentry kind="src" path="0x08"/>
+	<classpathentry kind="src" path="0x07"/>
+	<classpathentry kind="src" path="0x0B"/>
+	<classpathentry kind="src" path="0x0A"/>
+	<classpathentry kind="src" path="0x0D"/>
+	<classpathentry kind="src" path="0x0C"/>
+	<classpathentry kind="src" path="0x0F"/>
+	<classpathentry kind="src" path="0x0E"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
